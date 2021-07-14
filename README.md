@@ -24,8 +24,9 @@ Here are few of NFT Series Of DreamLandNFT:
   <img src="https://telegra.ph/file/13a73e24e8e2a988d280c.jpg">
 </p>
 
+<p align="center">
 <a href="https://simpleledger.info/#token/675b577e6b03ea50fe399cd2d57389657eae5f12f45aac737e85804f587ac77b" alt="SIMPLELEDGER"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
-
+</p>
 
 [SIMPLEDGER](https://simpleledger.info/#token/675b577e6b03ea50fe399cd2d57389657eae5f12f45aac737e85804f587ac77b)<br>
 NAME: Fairy<br>
