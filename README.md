@@ -33,3 +33,9 @@ Rarity: Unique.<br>
 Chat: [DreamLand](https://t.me/DreamsLandChat)<br>
 Feild: DreamLandNFT<br>
 Parent: [DreamLandNFT](https://simpleledger.info/token/66f918c844a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)
+
+<br>
+
+<p align="center">
+  <img src="https://telegra.ph/file/194c2cfd21bf3aacb186f.jpg">
+</p>
