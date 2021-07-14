@@ -23,4 +23,4 @@ Here are few of NFT Series Of DreamLandNFT:
   <img src="https://telegra.ph/file/13a73e24e8e2a988d280c.jpg">
 </p>
 
-[SIMPLEDGER]()
+[SIMPLEDGER](https://simpleledger.info/#token/675b577e6b03ea50fe399cd2d57389657eae5f12f45aac737e85804f587ac77b)
