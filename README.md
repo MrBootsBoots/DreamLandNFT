@@ -10,6 +10,7 @@ NFTs are a unit of data stored on a digital ledger, called a blockchain, that ce
 
 <p align="center">
   <img src="https://telegra.ph/file/422cc3db1426679d87a20.jpg">
+  <a href="https://t.me/DreamsLandChat" alt="Telegram!"> 
 </p>
 
 
