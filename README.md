@@ -9,7 +9,7 @@ NFTs are a unit of data stored on a digital ledger, called a blockchain, that ce
 ### DreamLandToken!
 
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/422cc3db1426679d87a20.jpg">
 </p>
 
 
