@@ -41,4 +41,6 @@ Parent: [DreamLandNFT](https://simpleledger.info/token/66f918c844a68e213c406dfa1
   <img src="https://telegra.ph/file/194c2cfd21bf3aacb186f.jpg">
 </p>
 
+<p align="center">
 <a href="https://simpleledger.info/#token/d2b4a0b4aed43d3317fc61bd7512a605ad28fa034a40a4877b44858078ad69fb" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
+</p>
