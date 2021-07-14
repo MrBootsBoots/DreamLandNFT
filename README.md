@@ -28,3 +28,4 @@ NAME: Fairy<br>
 Rarity: Unique.<br>
 Chat: [DreamLand](https://t.me/DreamsLandChat)<br>
 Feild: DreamLandNFT<br>
+Parent: [DreamLandNFT](https://simpleledger.info/token/66f918c844a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)
