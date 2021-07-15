@@ -97,5 +97,5 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa
 
 <details>
   <summary> DreamLandNFT </summary>
-  <p> <strong>DreamLandNFT:<br>Contains</strong>:<br>Total NFTs: 4<br> Total Supply: 150<br>NFT Can Be Mint More: 146<br>Verified: No<br></p>
+  <p> <strong>DreamLandNFT:<br>Contains</strong>:<br>Total NFTs: 4<br> Total Supply: 150<br>NFT Can Be Mint More: 146<br>Verified: Not yet<br></p>
 </details>
