@@ -112,6 +112,17 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa
 <br>
 <hr>
 
+## DreamLandNFT (Weapons)
+
+<p align="center">
+  <img src="https://telegra.ph/file/afa7aa224d6b60e1b7ac0.jpg">
+</p>
+<br>
+<p align="center">
+  <a href="https://simpleledger.info/#token/1505f8f7190ac54a7eca07bf264c466d06e9e330965104de744e6e6019f2cc18" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
+
+<hr>
+
 <details>
   <summary> DreamLandNFT </summary>
   <p> <strong>DreamLandNFT:<br>Contains</strong>:<br>Total NFTs: 5<br> Total Supply: 150<br>NFT Can Be Mint More: 145<br>Verified: Not yet<br></p>
