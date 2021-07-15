@@ -141,5 +141,7 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa
      width="273"
      height="273"/>
 <strong> POWERED BY:</strong><br> 
-[Andy](https://t.me/MrAndyyy) , 
+
+
+[ANDY](https://t.me/MrAndyyy)<br>
 [DreamLand](https://t.me/DreamsLandChat)
