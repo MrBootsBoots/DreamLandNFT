@@ -106,7 +106,7 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa
 [SIMPLELEDGER]()<br>
 NAME: Prince<br>
 Rarity: Super Rare<br>
-Chat: [DREAMLAND](https://t.me/DreamsLandChat)
+Chat: [DREAMLAND](https://t.me/DreamsLandChat)<br>
 Feild: DreamLandNFT<br>
 Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)<br>
 <br>
