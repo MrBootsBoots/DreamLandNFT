@@ -100,7 +100,7 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa
 </p>
 <br>
 <p align="center">
-  <a href="https://simpleledger.info/#token/f3d9e39d42c23a98cc228b2b580c9bf26ef3bb457b0f0a9187a3e2d893ddcf14" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F09F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
+  <a href="https://simpleledger.info/#token/f3d9e39d42c23a98cc228b2b580c9bf26ef3bb457b0f0a9187a3e2d893ddcf14" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
 </p>
 
 [SIMPLELEDGER]()<br>
