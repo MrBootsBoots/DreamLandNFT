@@ -120,6 +120,14 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa
 <br>
 <p align="center">
   <a href="https://simpleledger.info/#token/1505f8f7190ac54a7eca07bf264c466d06e9e330965104de744e6e6019f2cc18" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
+</p>
+
+[SIMPLELEDGER]()<br>
+NAME: Sword V1<br>
+Rarity: Common<br>
+Chat: [DREAMLAND](https://t.me/DreamsLandChat)<br>
+Feild: DreamLandNFT<br>
+Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)<br>
 
 <hr>
 
