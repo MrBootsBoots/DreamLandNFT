@@ -140,4 +140,6 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa
 <img src="https://telegra.ph/file/422cc3db1426679d87a20.jpg"
      width="273"
      height="273"/>
-<strong> POWERED BY:</strong><br> [Andy](https://t.me/MrAndyyy), [DreamLand](https://t.me/DreamsLandChat)
+<strong> POWERED BY:</strong><br> 
+[Andy](https://t.me/MrAndyyy) , 
+[DreamLand](https://t.me/DreamsLandChat)
