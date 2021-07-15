@@ -5,6 +5,7 @@ Hello Welcome to the amazing world of DreamLands!
 NFTs are NON-FUNGIBLE TOKENs!
 NFTs are a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.
 
+<hr>
 
 ### DreamLandToken!
 
@@ -13,6 +14,7 @@ NFTs are a unit of data stored on a digital ledger, called a blockchain, that ce
   <a href="https://t.me/DreamsLandChat" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 </p>
 
+<hr>
 
 ### DreamLandNFTs!
 
@@ -36,6 +38,7 @@ Feild: DreamLandNFT<br>
 Parent: [DreamLandNFT](https://simpleledger.info/token/66f918c844a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)
 
 <br>
+<hr>
 
 <p align="center">
   <img src="https://telegra.ph/file/194c2cfd21bf3aacb186f.jpg">
@@ -53,6 +56,7 @@ Feild: DreamLandNFT<br>
 Parent: [DreamLandNFT](https://simpleledger.info/token/66f918c844a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)<br>
 
 <br>
+<hr>
 
 <p align="center">
   <img src="https://telegra.ph/file/0f37c7fd47dfe76d62fb9.jpg">
@@ -70,6 +74,7 @@ Feild: DreamLandNFT<br>
 Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)<br>
 
 <br>
+<hr>
 
 <p align="center">
   <img src="https://telegra.ph/file/b988228ed6ea2c283d17e.jpg">
