@@ -99,9 +99,19 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa
   <img src="https://telegra.ph/file/aa9a7435a0d5bd59a07c3.jpg">
 </p>
 <br>
+<p align="center">
+  <a href="https://simpleledger.info/#token/f3d9e39d42c23a98cc228b2b580c9bf26ef3bb457b0f0a9187a3e2d893ddcf14" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F09F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
+</p>
+
+[SIMPLELEDGER]()<br>
+Rarity: Super Rare<br>
+Chat: [DREAMLAND](https://t.me/DreamsLandChat)
+Feild: DreamLandNFT<br>
+Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c884a68e213c406dfa149c15b76342ee21c5fd47d320b65117a1246938)<br>
+<br>
 <hr>
 
 <details>
   <summary> DreamLandNFT </summary>
-  <p> <strong>DreamLandNFT:<br>Contains</strong>:<br>Total NFTs: 4<br> Total Supply: 150<br>NFT Can Be Mint More: 146<br>Verified: Not yet<br></p>
+  <p> <strong>DreamLandNFT:<br>Contains</strong>:<br>Total NFTs: 5<br> Total Supply: 150<br>NFT Can Be Mint More: 145<br>Verified: Not yet<br></p>
 </details>
