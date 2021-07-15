@@ -79,7 +79,7 @@ Parent: [DreamLandNFT](https://simpleledger.info/#token/66f918c844a68e213c406dfa
   <a href="https://simpleledger.info/#token/454ab634f82531ae6dc00db015d9fcda85461b8af2d737c7656becc81c097ca0" alt="SIMPLELEDGER"> <img src="https://img.shields.io/badge/%F0%9F%92%A1-SIMPLE%20LEDGER%20NFT-9cf" /> </a>
 </p>
 
-[SIMPLELEDGER]()
+[SIMPLELEDGER]()<br>
 NAME: Princess<br>
 Rarity: Super Rare<br>
 Chat: [DREAMLAND](https://t.me/DreamsLandChat)<br>
